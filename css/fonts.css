@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'slogan';
+    src: url(../fonts/thumb1.ttf);
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url(../fonts/thumb2.ttf);
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url(../fonts/thumb3.ttf);
+}
